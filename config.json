@@ -1,0 +1,48 @@
+{
+  "name": "Example Vite External Module",
+
+  "namespace": "ExampleVite\\ExternalModule",
+
+  "description": "This is a simple example of a running external module with a React frontend, built with Vite.",
+
+  "documentation": "README.md",
+
+  "authors": [
+    {
+      "name": "Sumon Chattopadhyay",
+      "email": "sumon.chattopadhyay@utah.edu",
+      "institution": "University of Utah BMIC"
+    }
+  ],
+
+  "permissions": [],
+
+  "links": {
+    "project": [
+      {
+        "name": "Example Vite Plugin Page",
+        "key": "exampleVitePlugin",
+        "icon": "link",
+        "url": "vite_plugin.php"
+      },
+      {
+        "name": "Vite App",
+        "key": "vitePage",
+        "icon": "download",
+        "url": "dist/index.html"
+      }
+    ],
+    "control-center": []
+  },
+
+  "no-auth-pages": [],
+
+  "project-settings": [],
+
+  "compatibility": {
+    "php-version-min": "",
+    "php-version-max": "",
+    "redcap-version-min": "",
+    "redcap-version-max": ""
+  }
+}
